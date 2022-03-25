@@ -22,9 +22,9 @@ Unfortunately, Xbox Live Indie Games closed down in October of 2017. I do not be
 
 ## Sample Screenshots
 
-![Project Sample](github-assets/AIGD-Beta01.jpg)
-![Project Sample](github-assets/AIGD-Shop.jpg)
-![Project Sample](github-assets/AIGD-Splash.jpg)
+![Project Sample](github-assets/AIGD-Beta01.png)
+![Project Sample](github-assets/AIGD-Shop.png)
+![Project Sample](github-assets/AIGD-Splash.png)
 
 ## Gameplay Sample
 
